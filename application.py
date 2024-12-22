@@ -109,7 +109,7 @@ class WelcomeMenu:
     def display(self):
         clear_screen()
         print('**************************************************************')
-        print('****************** INF-502 GITHUB DATA TOOL ******************')
+        print('****************** GITHUB DATA TOOL ******************')
         print('************************ Version 1.0.0 ***********************')
         print()
         print('Updated December 1, 2023')
